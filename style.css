@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.slider_container .container {
+  padding-inline: 15px;
+  max-width: 1230px;
+  margin: auto;
+}
+.slider_container .container .swiper {
+  padding-block: 50px;
+}
+.slider_container .container .swiper .swiper-wrapper .swiper-slide .img_box img {
+  max-width: 100%;
+}/*# sourceMappingURL=style.css.map */
